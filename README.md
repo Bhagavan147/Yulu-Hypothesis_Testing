@@ -8,8 +8,6 @@ The company aims to address the following:
 - Identify the key variables that significantly impact the demand for shared electric cycles in the Indian market.  
 - Evaluate how effectively these variables explain the variations in demand.  
 
-Here's a table representation for the provided data:
-
 | **Column**      | **Description**                                                                                       |
 |------------------|-----------------------------------------------------------------------------------------------------|
 | **datetime**     | Date and time of the activity                                                                       |
